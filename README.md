@@ -16,5 +16,4 @@ Simple api restfull application, for fibernetics
     [x] app/Services/UserService.php
     [x] app/Models/User.php
     [x]: test/Feature/UserTest.php
-    [x]: test/Unit/UserServiceTest.php
     [x]: /database/migrations/2016_01_01_000000_create_users_table.php
